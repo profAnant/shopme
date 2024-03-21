@@ -1,7 +1,4 @@
 # Shopme
 
 
-This is an ecom website
-
-
-fdfgvvh
+This is the ecommerce Website Based on MERN Stack
